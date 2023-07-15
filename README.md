@@ -6,12 +6,11 @@
 
 
   <hr>
+  <br>
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdodam24%2Fhit-counter&count_bg=%23007BFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<p>
-  <img src="https://github.com/dodam24/dodam24/raw/main/background.jpg">
-</p>
+-->
 
 <!-- <br> -->
 
