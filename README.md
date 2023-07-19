@@ -25,9 +25,8 @@
 <h2> 💬 &nbsp; About me </h2>
   <p>
 <h6> I'm currently learning Back-End skills and Front-End skills. </h6>
-    
 <!-- Hello, I’m Do-dam. I majored in Hotel Management and double majored in Business Administration.
-I worked in the hospitality industry for more than 10 years, including hotels and airlines.
+I worked in the hospitality industry including hotels and airlines.
 After I got interested in Software development, I decided to switch career as a programmer. 
 So, I’m currently learning Back-End skills and Front-End skills.
 I strive to be a developer who not only writes clean and efficient code but also understands the importance of teamwork, communication. -->
