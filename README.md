@@ -24,12 +24,12 @@
 
 <h2> 💬 &nbsp; About me </h2>
   <p>  
-    <h6> I'm currently studying Backend development and Computer science knowledge. </h6>
-  <!-- <a> Hello, I'm Do-dam. I majored in Hotel Management and double majored in Business Administration.
+  I'm currently learning Backend technology and Computer science knowledge.
+  <!-- Hello, I'm Do-dam. I majored in Hotel Management and double majored in Business Administration.
   I worked in the hospitality industry including hotels and airlines.
   After I got interested in Software development, I decided to switch career as a programmer.
   So, I'm currently learning Back-End skills and Front-End skills. 
-  I strive to be a developer who learns and grows every day. / I want to be a good developer by making use of my experience so far. </a> -->
+  I strive to be a developer who learns and grows every day. / I want to be a good developer by making use of my experience so far. -->
     <!-- <sub> I'm currently studying IT knowledge such as Backend technology and Computer science. </sub>
     <br> <sub> - I majored in Hotel Management and double majored in Business Administration. </sub>
     <br> <sub> - I'm interested in collaborating with others and growing up together. </sub> -->
