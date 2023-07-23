@@ -10,9 +10,9 @@
 
 <div align="center">
   <!-- Dodam's Githun stats -->
-  <a href="https://github.com/metleeha">
-    <img src="https://github-readme-stats.vercel.app/api?username=dodam24&layout=compact&theme=github_dark&hide_border=false&show_icons=true">
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=dodam24&layout=compact&theme=github_dark&hide_border=false&show_icons=true" width="38%">
+  <!-- Github Streaks -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodam24&theme=blueberry-duo" width="40%"> 
   <!-- Top Langs -->
   <!-- <a href="https://github.com/metleeha">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodam24&layout=compact&theme=github_dark&hide_border=true">
