@@ -7,19 +7,29 @@
 
 <hr>
 
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdodam24%2Fhit-counter&count_bg=%234483FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
--->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<!-- hits -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdodam24%2Fhit-counter&count_bg=%234483FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</a>
 
+<!-- Solved.ac Profile -->
+<a href="https://solved.ac/dam24">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dam24" alt="Solved.ac Profile">
+</a>
+</div>
+  
+<br>
+  
 <div align="center">
   <!-- Dodam's Githun stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=dodam24&layout=compact&theme=github_dark&hide_border=false&show_icons=true" width="46%">
+    <img src="https://github-readme-stats.vercel.app/api?username=dodam24&layout=compact&theme=github_dark&hide_border=false&show_icons=true">
   <!-- Github Streaks -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodam24&theme=blueberry-duo" width="49%"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodam24&theme=blueberry-duo">
+  
   <!-- Top Langs -->
-  <!-- <a href="https://github.com/metleeha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodam24&layout=compact&theme=github_dark&hide_border=true">
-  </a> -->
+  <!-- <a href="https://github.com/metleeha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodam24&layout=compact&theme=github_dark&hide_border=true"></a> -->
 </div>
+
 <br>
 
 <!-- ![3D](./profile-3d-contrib/profile-night-rainbow.svg) -->
