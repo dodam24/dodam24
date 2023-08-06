@@ -38,7 +38,7 @@
 
 <h2> 💬 &nbsp; About me </h2>
   <p>  
-  I'm currently learning Backend technology and Computer science knowledge.
+  📝 I'm currently learning Backend technology and Computer science knowledge.
   <!-- Hello, I'm Do-dam. I majored in Hotel Management and double majored in Business Administration.
   I worked in the hospitality industry including hotels and airlines.
   After I got interested in Software development, I decided to switch career as a programmer.
