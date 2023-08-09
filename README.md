@@ -21,13 +21,13 @@
 
 <br>
   
-<div align="center">
   <!-- Dodam's Github stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=dodam24&layout=compact&theme=github_dark&hide_border=false&show_icons=true" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api?username=dodam24&layout=compact&theme=tokyonight&hide_border=false&show_icons=true">
   
   <!-- Top Langs -->
-  <a href="https://github.com/metleeha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodam24&layout=compact&theme=github_dark&hide_border=false" width="32%"></a>
-</div>
+  <a href="https://github.com/metleeha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodam24&layout=compact&theme=tokyonight&hide_border=false"></a>
+
+  <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dam24)](https://solved.ac/dam24) -->
 
 <br>
 
@@ -36,17 +36,15 @@
 
 <h2> 💬 &nbsp; About me </h2>
   <p>  
-  - 🌱 I'm currently learning Backend technology and Computer science knowledge.
-    <br>
-  - 📝 I'm studying new technology steadily.
-    <br>
-  - 🌈 My goal is to become a skilled full-stack developer.
+  <li> 🌱 &nbsp; I'm currently learning Backend technology and Computer Science knowledge.</li>
+  <li> 📝 &nbsp; I'm studying new technology steadily.</li>
+  <li> 🌈 &nbsp; My goal is to become a skilled full-stack developer.</li>
   <!-- Hello, I'm Do-dam. I majored in Hotel Management and double majored in Business Administration.
   I worked in the hospitality industry including hotels and airlines.
   After I got interested in Software development, I decided to switch career as a programmer.
   So, I'm currently learning Back-End skills and Front-End skills. 
   I strive to be a developer who learns and grows every day. / I want to be a good developer by making use of my experience so far. -->
-    <!-- <sub> I'm currently studying IT knowledge such as Backend technology and Computer science. </sub>
+    <!-- <sub> - I'm currently studying IT knowledge such as Backend technology and Computer science. </sub>
     <br> <sub> - I majored in Hotel Management and double majored in Business Administration. </sub>
     <br> <sub> - I'm interested in collaborating with others and growing up together. </sub> -->
   </p>
@@ -61,7 +59,14 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=Kubernetes&amp;logoColor=white"> 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=Kubernetes&amp;logoColor=white">
+  <!--
+  <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="30" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="30" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+  <code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+  -->
 </p>
   <br>
 
