@@ -5,30 +5,28 @@
 
 </div>
 
+<br>
 <hr>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 <!-- hits -->
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdodam24%2Fhit-counter&count_bg=%234483FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</a>
+<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdodam24%2Fhit-counter&count_bg=%234483FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</a> -->
 
 <!-- Solved.ac Profile -->
-<a href="https://solved.ac/dam24">
+<!-- <a href="https://solved.ac/dam24">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dam24" alt="Solved.ac Profile">
-</a>
+</a> -->
 </div>
 
-  
 <br>
   
 <div align="center">
   <!-- Dodam's Github stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=dodam24&layout=compact&theme=github_dark&hide_border=false&show_icons=true" width="45%">
-  <!-- Github Streaks -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodam24&theme=blueberry-duo" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=dodam24&layout=compact&theme=github_dark&hide_border=false&show_icons=true" width="42%">
   
   <!-- Top Langs -->
-  <!-- <a href="https://github.com/metleeha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodam24&layout=compact&theme=github_dark&hide_border=true"></a> -->
+  <a href="https://github.com/metleeha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodam24&layout=compact&theme=github_dark&hide_border=false" width="32%"></a>
 </div>
 
 <br>
@@ -38,7 +36,11 @@
 
 <h2> 💬 &nbsp; About me </h2>
   <p>  
-  📝 I'm currently learning Backend technology and Computer science knowledge.
+  - 🌱 I'm currently learning Backend technology and Computer science knowledge.
+    <br>
+  - 📝 I'm studying new technology steadily.
+    <br>
+  - 🌈 My goal is to become a skilled full-stack developer.
   <!-- Hello, I'm Do-dam. I majored in Hotel Management and double majored in Business Administration.
   I worked in the hospitality industry including hotels and airlines.
   After I got interested in Software development, I decided to switch career as a programmer.
@@ -50,16 +52,8 @@
   </p>
 <br>
 
-<!-- #### 🛠️ &nbsp; Tech Stack -->
-<!-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
-   ![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white)
-   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) -->
-
 <h4> 💻 &nbsp; Tech Stack </h4>
 <p>
-<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"> -->
   <img src="https://img.shields.io/badge/React-444444?style=flat-square&amp;logo=React">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&amp;logo=JavaScript&amp;logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=CoffeeScript&amp;logoColor=white">
