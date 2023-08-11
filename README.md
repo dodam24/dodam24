@@ -36,7 +36,7 @@
 
 <h2> 💬 &nbsp; About me </h2>
   <p>  
-  <li> 🌱 &nbsp; I'm currently learning Backend technology and Computer Science knowledge.</li>
+  <li> 🌱 &nbsp; I'm currently learning Back-end technology and Front-end technology.</li>
   <li> 📝 &nbsp; I'm studying new technology steadily.</li>
   <li> 🌈 &nbsp; My goal is to become a skilled full-stack developer.</li>
   <!-- Hello, I'm Do-dam. I majored in Hotel Management and double majored in Business Administration.
