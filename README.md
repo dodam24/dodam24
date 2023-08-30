@@ -54,6 +54,8 @@
 <p>
   <img src="https://img.shields.io/badge/React-444444?style=flat-square&amp;logo=React">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&amp;logo=JavaScript&amp;logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=CoffeeScript&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=FFDD54">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
