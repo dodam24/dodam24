@@ -11,7 +11,7 @@
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dodam24&layout=compact&theme=tokyonight&hide_border=false&show_icons=true)<br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dodam24&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/metleeha)<br>
-<!-- [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dam24)](https://solved.ac/dam24) -->
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dam24)](https://solved.ac/dam24)
 
 <br>
 
