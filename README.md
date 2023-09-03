@@ -53,7 +53,7 @@
 
 ### 📨 &nbsp; Contact Me
 
-<img align="left" width="30px" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
-<img align="left" width="25px" src="https://velog.velcdn.com/images/hyeongjun/post/5fff0129-f29b-4dfa-b28b-f3af0e11ed4f/image.png" alt="velog">
-<img align="left" width="30px" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
-<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
+<img align="left" width="25px" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
+<img align="left" width="25x" src="https://velog.velcdn.com/images/hyeongjun/post/5fff0129-f29b-4dfa-b28b-f3af0e11ed4f/image.png" alt="velog"/>
+<img align="left" width="25px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" alt="linkedin"/>
+<img align="left" width="25px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png" alt="instagram"/>
