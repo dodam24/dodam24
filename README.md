@@ -53,9 +53,9 @@
 <code><img alt="Git" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913419/noticon/xf9bevlrgugi7xj6xkhp.png"></code>
 <!-- <code><img alt="Git-B" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 <code><img alt="GitHub" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png"></code>
+<!-- <code><img alt="Markdown" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1655690557/noticon/je3teqka1n3i4cjsofj1.png"></code> -->
 <code><img alt="Python" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png"></code>
-<!-- <code><img alt="Java" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629972500/noticon/htwpjnfc0hlr1teypbjo.png"></code> -->
-<!-- <code><img alt="Java-B" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png"></code> -->
+<code><img alt="Java" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629972500/noticon/htwpjnfc0hlr1teypbjo.png"></code>
 <code><img alt="Spring" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778017/noticon/ytjm1rralodyhvuggrpu.png"></code>
 <code><img alt="Spring Boot" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583139980/noticon/vtzecmjzn39cifnjtonx.png"></code>
 <code><img alt="Docker" height="40" src="https://img.icons8.com/color/48/docker.png"></code>
