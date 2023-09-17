@@ -14,14 +14,15 @@
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dam24)](https://solved.ac/dam24)
 
 <br>
-
+<!--
 ## 💬 &nbsp; About me
 
 <li> I'm currently learning Back-end technology and Front-end technology.</li>
 <li> I'm studying new technology steadily.</li>
 <li> My goal is to become a skilled full-stack developer.</li>
-    
+
 <br>
+-->
 
 ### 💻 &nbsp; Languages and Tools
 
