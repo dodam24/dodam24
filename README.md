@@ -37,14 +37,14 @@
 <code><img alt="IntelliJ" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913019/noticon/watr41yboy1ub4jfuqlq.png"></code>
 <!-- <code><img alt="SQL" height="40" src="https://user-images.githubusercontent.com/47877911/107957983-b849c100-6fe4-11eb-93e5-ac4f5fb905b5.png"></code> -->
 <code><img alt="Postman" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914838/noticon/qlfe77nbcvdscm762prm.png"></code>
-<code><img alt="MySQL" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913591/noticon/e2bd9zw78n6zw6his4bd.png"></code>
 <code><img alt="Git" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913419/noticon/xf9bevlrgugi7xj6xkhp.png"></code>
 <!-- <code><img alt="Git-B" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 <code><img alt="GitHub" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png"></code>
 <code><img alt="Python" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png"></code>
-<code><img alt="Java" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629972500/noticon/htwpjnfc0hlr1teypbjo.png"></code>
 <code><img alt="Spring" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778017/noticon/ytjm1rralodyhvuggrpu.png"></code>
 <code><img alt="Spring Boot" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583139980/noticon/vtzecmjzn39cifnjtonx.png"></code>
+<code><img alt="Java" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629972500/noticon/htwpjnfc0hlr1teypbjo.png"></code>
+<code><img alt="MySQL" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913591/noticon/e2bd9zw78n6zw6his4bd.png"></code>
 <!-- <code><img alt="Docker" height="40" src="https://img.icons8.com/color/48/docker.png"></code> -->
 <!-- <code><img alt="Kubernetes" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566915673/noticon/gbjcnilojtgjlxxwe6xk.png"></code> -->
 <br>
