@@ -48,6 +48,7 @@
 <code><img alt="Redux" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567749614/noticon/zgdaxpaif5ojeduonygb.png"></code>
 <code><img alt="Java" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629972500/noticon/htwpjnfc0hlr1teypbjo.png"></code>
 <code><img alt="MySQL" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913591/noticon/e2bd9zw78n6zw6his4bd.png"></code>
+<code><img alt="Cloudinary" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581265714/noticon/zyjtzn4licmgni1xut4g.png"></code>
 <!-- <code><img alt="Docker" height="40" src="https://img.icons8.com/color/48/docker.png"></code> -->
 <!-- <code><img alt="Kubernetes" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566915673/noticon/gbjcnilojtgjlxxwe6xk.png"></code> -->
 <br>
