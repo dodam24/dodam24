@@ -39,8 +39,8 @@
 <code><img alt="Postman" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914838/noticon/qlfe77nbcvdscm762prm.png"></code>
 <code><img alt="Git" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913419/noticon/xf9bevlrgugi7xj6xkhp.png"></code>
 <code><img alt="GitHub" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128822/noticon/osiivsvhnu4nt8doquo0.png"></code>
-<code><img alt="Next.js" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566879300/noticon/fvty9lnsbjol5lq9u3by.svg"></code>
 <code><img alt="Tailwind CSS" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1609289674/noticon/xgbmvnxym2r5wanjl17t.png"></code>
+<code><img alt="Next.js" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566879300/noticon/fvty9lnsbjol5lq9u3by.svg"></code>
 <code><img alt="Spring" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778017/noticon/ytjm1rralodyhvuggrpu.png"></code>
 <code><img alt="Spring Boot" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583139980/noticon/vtzecmjzn39cifnjtonx.png"></code>
 <code><img alt="Eclipse" height="40" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592435210/noticon/fxihf9erzlrlinozxn9i.png"></code>
