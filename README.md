@@ -56,7 +56,7 @@
 <br>
 
 ### 📨 &nbsp; Contact Me
-<a href="dodam0724@gmail.com">
+<a href="mailto:dodam0724@gmail.com" target="_blank">
   <img align="left" width="25px" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
 </a>
 <a href="https://velog.io/@do_dam">
