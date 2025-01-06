@@ -36,6 +36,7 @@
 <code><img alt="Android Studio" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1707289883/noticon/uprn89nnpdhvm4r8wzhg.png"></code>
 <code><img alt="TypeScript" height="30" src="https://user-images.githubusercontent.com/47877911/107913658-2c17a980-6fa4-11eb-854b-d85d0a0a9148.png"></code>
 <code><img alt="Visual Studio Code" height="30" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png"></code>
+<code><img alt="Bitbucket" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914657/noticon/nr2jbngfvcbsiqa02utd.svg"></code>
 <code><img alt="IntelliJ" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913019/noticon/watr41yboy1ub4jfuqlq.png"></code>
 <code><img alt="Python" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png"></code>
 <!-- <code><img alt="Postman" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914838/noticon/qlfe77nbcvdscm762prm.png"></code> -->
