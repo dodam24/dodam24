@@ -14,14 +14,14 @@
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dam24)](https://solved.ac/dam24)
 
 <br>
-
+<!--
 ## 💬 &nbsp; About me
-
 <li> I'm currently learning Back-end technology and Front-end technology.</li>
 <li> I'm studying new technology steadily.</li>
 <li> My goal is to become a skilled Full-stack developer.</li>
 
 <br>
+-->
 
 ### 💻 &nbsp; Languages and Tools
 
@@ -37,7 +37,7 @@
 <code><img alt="React Native" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1613069086/noticon/nzkev3bnxzyskvgllhcf.png"></code>
 <code><img alt="Android Studio" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1707289883/noticon/uprn89nnpdhvm4r8wzhg.png"></code>
 <code><img alt="TypeScript" height="30" src="https://user-images.githubusercontent.com/47877911/107913658-2c17a980-6fa4-11eb-854b-d85d0a0a9148.png"></code>
-<code><img alt="Visual Studio Code" height="30" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png"></code>
+<!-- <code><img alt="Visual Studio Code" height="30" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png"></code> -->
 <code><img alt="Bitbucket" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914657/noticon/nr2jbngfvcbsiqa02utd.svg"></code>
 <code><img alt="IntelliJ" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913019/noticon/watr41yboy1ub4jfuqlq.png"></code>
 <code><img alt="Python" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png"></code>
