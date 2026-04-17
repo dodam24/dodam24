@@ -1,13 +1,8 @@
-<div align="center">
-
-<br>
-
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dam24)](https://solved.ac/dam24)
-
-<br>
-
-<img alt="HTML5" width="30" height="30" src="https://user-images.githubusercontent.com/47877911/88288770-3421aa80-cd2f-11ea-9972-ab7e1ac2b89d.png"><img alt="CSS3" width="30" height="30" src="https://user-images.githubusercontent.com/47877911/88288764-31bf5080-cd2f-11ea-9291-24a90a43acc9.png"><img alt="JavaScript" width="30" height="30" src="https://user-images.githubusercontent.com/47877911/88287732-af825c80-cd2d-11ea-9a56-bf85549e3fc4.png"><img alt="Node.js" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1634264836/noticon/uxvdxcyvs5ocrxhacfj6.png"><img alt="MongoDB" width="30" height="30" src="https://user-images.githubusercontent.com/47877911/88288497-d42b0400-cd2e-11ea-819f-e2fa50f5e60b.png"><img alt="Swagger" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914780/noticon/k2zbemz0azdzoihurrvj.png"><img alt="Swagger" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567752463/noticon/czcj0z8efzlickmzpvck.png"><img alt="React" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567003547/noticon/skjx2bjr7yjqybwxmoxc.png"><img alt="React Native" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1613069086/noticon/nzkev3bnxzyskvgllhcf.png"><img alt="Android Studio" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1707289883/noticon/uprn89nnpdhvm4r8wzhg.png"><img alt="TypeScript" width="30" height="30" src="https://user-images.githubusercontent.com/47877911/107913658-2c17a980-6fa4-11eb-854b-d85d0a0a9148.png"><img alt="ReactQuery" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1631622784/noticon/zwush4y3u0mgamlck9bq.png"><img alt="IntelliJ" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913019/noticon/watr41yboy1ub4jfuqlq.png"><img alt="Python" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png"><img alt="Git" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913419/noticon/xf9bevlrgugi7xj6xkhp.png"><img alt="Tailwind CSS" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1657314490/noticon/ur8spzfcq4acw7ijp68v.png"><img alt="Next.js" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566879300/noticon/fvty9lnsbjol5lq9u3by.svg"><img alt="Redux" width="30" height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567749614/noticon/zgdaxpaif5ojeduonygb.png">
-
-<br>
-
+### Statistics
+<div>
+  <img alt="stats" align="left" src="https://github-readme-stats-eta-hazel-icajibym9b.vercel.app/api?username=dodam24&show_icons=true&theme=holi&count_private=true&include_all_commits=true" width = "49%" height="130%" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dam24" width="42%" height="100%"/>
+</div>
+<div>
+  <img height=200 align="left" src="https://github-readme-stats-eta-hazel-icajibym9b.vercel.app/api/top-langs/?username=dodam24&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5&count_private=true"/>
 </div>
