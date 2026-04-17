@@ -51,8 +51,11 @@
       <td align="center" width="80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" height="40px"/><br/>Styled
       </td>
-      <td align="center" width="80">
+      <!-- <td align="center" width="80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="40px"/><br/>Framer Motion
+      </td> -->
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/dodam24/dodam24/main/icons/framer-motion.svg" height="40px"/><br/>Framer Motion
       </td>
       <!-- <td align="center" width="80">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40px"/><br/>MUI
