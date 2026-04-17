@@ -1,3 +1,7 @@
+<div class="header">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&color=gradient&text=Dodam's%20Github&textBg=false&fontSize=70&descAlign=70&descAlignY=63&fontColor=5885E8&fontAlign=50&strokeWidth=1.2&reversal=false&stroke=5885E8" alt="Dodam's GitHub">
+</div>
+
 ### 💻 Languages & Tools
 
 **Languages**
@@ -52,7 +56,7 @@
 
 <div>
   <img src="https://github-readme-stats-eta-hazel-icajibym9b.vercel.app/api?username=dodam24&show_icons=true&theme=holi&count_private=true&include_all_commits=true" width="49%"/>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dam24" width="42%"/>
 </div>
 
