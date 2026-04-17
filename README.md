@@ -25,8 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" height="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="45px"/>
-  <!-- <img src="https://img.shields.io/badge/Zustand-443e38?style=flat&logo=zustand&logoColor=white" height="25px"/> -->
-  <!-- <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white" height="25px"/> -->
+  <img src="https://raw.githubusercontent.com/dodam24/dodam24/main/icons/zustand.svg" height="45px"/>
+  <img src="https://raw.githubusercontent.com/dodam24/dodam24/main/icons/tanstack-query.svg" height="45px"/>
 </div>
 <br />
 
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45px"/>
-  <!-- <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" height="25px"/> -->
+  <img src="https://raw.githubusercontent.com/dodam24/dodam24/main/icons/supabase.svg" height="45px"/>
 </div>
 <br />
 
@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="45px"/>
+  <img src="https://raw.githubusercontent.com/dodam24/dodam24/main/icons/jira.svg" height="45px"/>
+  <img src="https://raw.githubusercontent.com/dodam24/dodam24/main/icons/confluence.svg" height="45px"/>
 </div>
 
 <br>
