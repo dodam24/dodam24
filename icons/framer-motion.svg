@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="#05f" viewBox="0 0 24 24"><title>Framer</title><path d="M4 0h16v8h-8zm0 8h8l8 8H4zm0 8h8v8z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="10" fill="#1D2432"/>
+  <svg x="9" y="9" width="30" height="30" viewBox="0 0 24 24" fill="#05f">
+    <title>Framer</title><path d="M4 0h16v8h-8zm0 8h8l8 8H4zm0 8h8v8z"/>
+  </svg>
+</svg>
